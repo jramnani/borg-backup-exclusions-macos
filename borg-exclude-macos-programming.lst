@@ -20,13 +20,13 @@
 ! **/node_modules
 
 # Git repos
-! **/.git
-! **/.gvfs
+# ! **/.git
+# ! **/.gvfs
 
 ################################
 # Exclusions up for discussion #
-# *.pyc			       #
-# ! **/build/		       #
-# ! **/dist/		       #
-# ! **/vendor/		       #
+# **/*.pyc
+! **/build/
+! **/dist/
+! **/vendor/
 ################################
