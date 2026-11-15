@@ -47,3 +47,7 @@
 
 # Up for discussion
 # ! **/.dropbox*
+
+# UTM Virtual Machine manager
+! **/.utm
+! **/com.utmapp.UTM/**
